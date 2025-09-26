@@ -43,7 +43,7 @@ const ComingSoonPage = () => {
         {/* Logo Section */}
         <div className="mb-8">
           <div className="flex items-center justify-center space-x-3">
-            <img src="/public/logo.png" alt="Solo3School Logo" className="h-12 w-auto" />
+            <img src="/logo.png" alt="Solo3School Logo" className="h-12 w-auto" />
             {/* <h1 className="text-4xl font-bold text-brand-yellow">Solo3School</h1> */}
           </div>
           <div className="mt-2 text-lg text-text-primary dark:text-text-dark">
