@@ -38,7 +38,7 @@ const ComingSoonPage = () => {
   }, [launchDate]);
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-4 bg-gradient-to-br from-bg-light via-yellow-50 to-bg-light dark:from-bg-dark dark:via-yellow-900/10 dark:to-bg-dark transition-colors duration-300">
+    <div className="min-h-screen flex items-center justify-center px-4 bg-gradient-to-br from-bg-light via-yellow-200 to-bg-light dark:from-bg-dark dark:via-yellow-900/10 dark:to-bg-dark transition-colors duration-300">
       <div className="max-w-2xl w-full text-center p-8 bg-white/80 dark:bg-gray-800/90 backdrop-blur-sm rounded-xl shadow-lg border border-border dark:border-border-dark">
         {/* Logo Section */}
         <div className="mb-8">
